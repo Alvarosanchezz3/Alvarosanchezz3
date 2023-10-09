@@ -8,14 +8,14 @@
 ### 👨‍💻 About Me :
 
 - 📝 I'm a full stack web developer
-
-- 📫 Email: **alvarosanchezvelez1@gmail.com**
-
-- 💼 Linkedin: https://www.linkedin.com/in/%C3%A1lvaro-s%C3%A1nchez-v%C3%A9lez/
-
+  
 - 🌱 I'm constantly learning every day
 
-- 🖥️ Website: https://alvaro-sanchez-velez.netlify.app
+- 📫 **Email:** alvarosanchezvelez1@gmail.com
+
+- 💼 **Linkedin:** https://www.linkedin.com/in/%C3%A1lvaro-s%C3%A1nchez-v%C3%A9lez/
+
+- 🖥️ **Website:** https://alvaro-sanchez-velez.netlify.app
 
 
 ### 🔨 Languages and Tools: :
