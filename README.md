@@ -1,3 +1,6 @@
+![Animation-lottie](https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/91897b37-037e-4df8-b2ee-ac71da374741)
+
+
 ### Hi there 👋
 
 <!--
