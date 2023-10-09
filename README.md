@@ -16,8 +16,8 @@
 - 🌱 I'm constantly learning every day
 
 
+### 🔨 Languages and Tools: :
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
             <div>
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/99bb7505-dcac-420b-952c-ab78feaa5789" alt="Java" width="40" height="40" cursor="pointer">
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/67c568c0-5617-435f-96f8-9d16345cfeb9" alt="SQL" width="40" height="40" cursor="pointer">
@@ -29,8 +29,5 @@
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/6953ad0d-e462-4343-a6e1-867270e2eb4a" alt="sass" width="40" height="40" cursor="pointer">
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/1becf855-b801-4215-9b8f-0dcdd5c859bb" alt="js" width="40" height="40" cursor="pointer">
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/619efd2a-031c-4570-afc6-9176754b3477" alt="react" width="40" height="40" cursor="pointer">
-                
-                
-                
           </div>
 </div>
