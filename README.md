@@ -1,19 +1,29 @@
-![Animation-lottie](https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/91897b37-037e-4df8-b2ee-ac71da374741)
+<div id="header" align="center">
+    <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/b20b5ad0-8e3f-4ab6-a7b2-7a334225db44" width="200" />
+    <h1 align="center">Hi 👋, I'm Álvaro</h1>
+    <h3 align="center">A passionate Junior full stack developer from Spain</h3>
+</div>
+---
+
+### 👨‍💻 About Me :
+
+- 📝 I'm a full stack web developer
+
+- 📫 How to reach me **alvarosanchezvelez1@gmail.com**
+
+- 🌱 I'm constantly learning every day
 
 
-### Hi there 👋
-
-<!--
-**Alvarosanchezz3/Alvarosanchezz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+       <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+</div>
