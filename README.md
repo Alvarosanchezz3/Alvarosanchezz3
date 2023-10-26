@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me :
 
-- 📝 I'm a full stack web developer
+- 📝 I'm a full stack developer
   
 - 🌱 I'm constantly learning every day
 
