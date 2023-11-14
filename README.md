@@ -30,7 +30,6 @@
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/99bb7505-dcac-420b-952c-ab78feaa5789" alt="Java" width="40" height="40" cursor="pointer">
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/67c568c0-5617-435f-96f8-9d16345cfeb9" alt="SQL" width="40" height="40" cursor="pointer">
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/30dc6ff1-3e7f-4e4d-b592-99759c9eafb0" alt="Git" width="40" height="40" cursor="pointer">
-                <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/c85e184a-ce60-4b62-8b77-a542a7608e35" alt="PHP" width="40" height="40" cursor="pointer">
                 <img src="https://github.com/Alvarosanchezz3/Alvarosanchezz3/assets/99328696/ca481b8e-ab16-4f0e-b877-8614ddc47287" alt="Spring" width="40" height="40" cursor="pointer">
                             
 </div>
